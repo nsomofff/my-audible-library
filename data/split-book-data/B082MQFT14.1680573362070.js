@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>When the terraforming crews introduced the alien Quill to worlds where they did not belong, they saw them only as a mindless form of fungal life. But the Quill multiplied and mutated until they were no longer harmless. In the ensuing chaos, many stations failed. For the survivors, their only hope rests in finding a way to wipe out the Quill....</p>"; 
